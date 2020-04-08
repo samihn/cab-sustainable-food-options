@@ -1,0 +1,223 @@
+Buddaken; 08401; Yes; Average; 1 Atlantic Ocean, Atlantic City, New Jersey, USA, 08401
+Carmine’s; 08401; Yes; Average; 2801 Pacific Ave, Atlantic City, New Jersey
+Brigantine Bistro; 08203; Yes; Low; 3015 Brigantine Blvd, Brigantine, New Jersey
+Vegan 15; 08225; Yes; High; 3003 English Creek Ave, Egg Harbor, New Jersey
+Leatherhead Pub; 08225; Yes; Average; 105 Philadelphia Ave, Egg Harbor City, Egg Harbor, New Jersey
+Greens and Grains; 08205; Yes; Low; 80 W Jimmie Leeds Rd (at The Exchange), Galloway, New Jersey
+Bubbies Bistro; 08406; Yes; Low; 5204 Ventnor Ave, Ventnor, New Jersey
+Enlightened Cafe; 08406; Yes; Average; 6414 Ventnor Ave, Ventnor, New Jersey
+Nirvana Indian Kitchen; 07401; Yes; Low; 29 W Allendale Ave, Allendale, New Jersey
+SuperJuice Nation; 07481; Yes; Average; 637 Wyckoff Ave, Wyckoff, New Jersey
+Banares; 07481; Yes; Average; 327 Franklin Ave #2051, Wyckoff, New Jersey
+Imperial Dynasty; 07430; Yes; High; 3 Franklin Turnpike, Mahwah, New Jersey
+Peshawri Grill; 07430; Yes; Average; 164 Franklin Tpke, Mahwah, New Jersey
+SuperJuice Nation2; 07624; Yes; Low; 127 Vervalen St, Closter, New Jersey
+Red Basil; 07070; Yes; Average; 4 Glen Rd, Rutherford, New Jersey
+Rutherford Pancake House; 07070; Yes; Low; 40 Park Ave, Rutherford, New Jersey
+Kaffir Thai; 08065; Yes; Low; 16 East Broad St (at Cinnaminson), Palmyra, New Jersey
+PJ Whelihans; 08055; Yes; Average; 61 Stokes Rd, Medford, New Jersey
+The Pop Shop; 08055; Yes; Average; 1 S Main St, Medford, New Jersey
+Healthy Garden; 08057; Yes; High; 73 E Main St, Moorestown, New Jersey
+MoonDog Grill; 08057; Yes; Low; 400 Rt 38 (at Moorestown Mall), Moorestown, New Jersey
+Mastoris; 08505; Yes; Average; 144 US-130, Bordentown, New Jersey
+Properly Fueled; 08505; Yes; Average; 1 1/2 Crosswicks St, Bordentown, New Jersey
+Coriander Indian Bistro; 08043; Yes; Average; 910 Haddonfield Berlin Rd, Voorhees, New Jersey
+Healthy Garden and Gourmet Pizza; 08043; Yes; High; 200 Haddonfield Berlin Rd, Voorhees, New Jersey
+Indiya; 08107; Yes; Average; 612 Haddon Ave, Collingswood, New Jersey
+Sabrina’s Cafe; 08107; Yes; Low; 714 Haddon Ave, Collingswood, New Jersey
+Heart Beet Kitchen; 08059; Yes; Low; 29 Haddon Ave, Haddon Township, New Jersey
+Bricco; 08059; Yes; Average; 128 Haddon Ave, Haddon Township, New Jersey
+Fresh Mex; 08102; Yes; Average; 1 Market St, Camden, New Jersey
+Fresh2go; 08102; Yes; High; 3400 Westfield Ave (at 36th St), Camden, New Jersey
+Leaf; 08033; Yes; High; 6 Kings Ct , Haddonfield, New Jersey
+Animo Juice; 08033; Yes; Average; 210 Kings Hwy E (at N Haddon Ave), Haddonfield, New Jersey
+Bella Vida Cafe; 08206; Yes; Average; 406 N Broadway (at Eldredge), West Cape May, New Jersey
+Gecko; 08206; Yes; Low; 479 W Perry St, West Cape May, New Jersey
+Epicure; 08260; Yes; Low; 2802 New Jersey Ave, Wildwood, New Jersey
+Alumni Grill; 08260; Yes; Low; 3316 Pacific Ave, Wildwood, New Jersey
+Aleathea’s Restaurant; 08204; Yes; Average; 7 Ocean St, Cape May, New Jersey
+Harry’s; 08204; Yes; Low; 1025 Beach Ave, Cape May, New Jersey
+Heart Beet Kitchen2; 08226; Yes; Average; 801 E 8th St, Ocean City, New Jersey
+Bashful Banana; 08226; Yes; Average; 946 Boardwalk, Ocean City, New Jersey
+The Juice Pod; 08243; Yes; High; 4100 Boardwalk, Sea Isle City, New Jersey
+DeNunzio’s; 08243; Yes; Low; 3500, Boardwalk, Sea Isle City, New Jersey
+Wildflower Earthly Vegan Fare; 08332; Yes; High; 501 N High St, Millville, New Jersey, USA, 08332
+Vegans Are Us; 08360; Yes; High; 636 E Landis Ave, Vineland, New Jersey, USA, 08360
+Self Love; 08302; Yes; Average; 40 E Commerce St, Bridgeton, New Jersey, USA, 08302
+Boro Bean; 08525; Yes; Average; 9 E Broad St, Hopewell, New Jersey, USA, 08525
+Topaz; 07109; No; Low; 137 Washington Ave, Belleville, NJ 07109
+Montclair Vegan; 07042; Yes; High; 10 Park St (at Park Street Market), Montclair, New Jersey, USA, 07042
+Mangia Organica; 07003; Yes; High; 271 Glenwood Ave, Bloomfield, New Jersey, USA, 07003
+Boon Thai Kitchen; 07039; Yes; Low; 21, East Northfield Rd (at South Livingston ave/JFK parkway), Livingston, New Jersey, USA, 07039
+Redd’s Biergarten; 07101; Yes; Low; 220 Market St, Newark, New Jersey, USA, 07102
+Bo Ne Vietnamese Cuisine; 08096; Yes; Low; 547 N Broad St, Woodbury, New Jersey, USA, 08096
+Slice; 08080; Yes; Low; 137 Egg Harbor Rd, Sewell, New Jersey, USA, 08080
+Playa Bowls; 08028; Yes; Average; 328 Rowan Blvd (at Rowan University), Glassboro, New Jersey, USA, 08028
+House of Flavor; 07002; Yes; Low; 911 Broadway, Bayonne, New Jersey, USA, 07002
+More Life Cafe; 07097; Yes; Average; 191 Mallory Ave (at Clendenny Ave), Jersey City, New Jersey, USA, 07097
+Big Bowls Little Plates; 07094; Yes; Average; 700 Plaza Drive, Secaucus, New Jersey, USA, 07094
+Intrinsic Bakery; 07032; Yes; Low; 161 Midland Ave, Kearny, New Jersey, USA, 07032
+Gourmet Gallery; 07825; Yes; Average; 31 Main St, Blairstown, New Jersey, USA, 07825
+Hackettstown Health Foods Juice Bar; 07840; Yes; High; 106 E Moores St, Hackettstown, New Jersey, USA, 07840
+Eureka Plant Based Foods; 08865; Yes; High; 396 S Main St, Phillipsburg, New Jersey, USA, 08865
+The Little York; 06460; Yes; Low; 569 Spring Mills Rd, Milford, New Jersey
+Grounded for Life Cafe; 08809; Yes; Low; 20R Leigh St (at Between Lower Center St and Main St), Clinton, New Jersey
+The Clean Plate Kitchen; 08809; Yes; Average; 49 Main St, Clinton, New Jersey
+Chimney Rock Inn; 08822; Yes; Average; 41 New Jersey 31, Flemington, New Jersey
+Playa Bowls2; 08822; Yes; Average; 75 Reaville Ave, Flemington, New Jersey
+Humble Cafe + Bakery; 08530; Yes; Average; 7 N Main St (at Bridge St), Lambertville, New Jersey
+Jess’s Juice Bar; 08530; Yes; High; 23 Church St, Lambertville, New Jersey
+Caffe Galleria; 08530; Yes; Low; 23 N Union St, Lambertville, New Jersey
+El Tule; 08530; Yes; Low; 49 N Main St, Lambertville, New Jersey
+Inn of the Hawke; 08530; Yes; Low; 74 South Union St (at Mt Hope St), Lambertville, New Jersey
+It’s Nutts on the Canal; 08530; Yes; Average; 2 Delaware and Raritan Canal State Park Trail, Lambertville, New Jersey
+Liv & Charlie’s; 08530; Yes; Average; 5 N Union St, Lambertville, New Jersey
+Marhaba; 08530; Yes; Low; 77 S Union St, Lambertville, New Jersey
+Thai Tida; 08530; Yes; Low; 236 N Union St, Lambertville, New Jersey
+Frenchtown Fresh; 08825; Yes; Average; 2 Race St (at Bridge St & Race St), Frenchtown, New Jersey
+Lovin’ Oven; 08825; Yes; Low; 62A Trenton Ave (Rte 29), Frenchtown, New Jersey
+Olive Garden; 30043; Yes; Low; 3345 Brunswick Pike, Lawrenceville, New Jersey
+Wildflour Bakery Cafe; 30043; Yes; Average; 2691 Main St, Lawrenceville, New Jersey
+Zoes Kitchen; 30043; Yes; Average; 3371 Brunswick Pike Ste 38B (at Mercer Mall), Lawrenceville, New Jersey
+Firkin Tavern; 08560; Yes; Low; 1400 Parkway Ave #1, Ewing, New Jersey
+IndiGrill; 08560; Yes; Average; 300 Main Blvd E Ste 501 (at Campus Town), Ewing, New Jersey
+Piccolo Pronto; 08560; Yes; Low; 100 Campus Town Circle Ste 101, Ewing, New Jersey
+The Library Cafe; 08560; Yes; Low; 2000 Pennington Rd (at TCNJ), Ewing, New Jersey
+The Weekday Cafe; 08560; Yes; High; 200 Charles Ewing Blvd, Ewing, New Jersey
+Brother’s Pizza; 08501; Yes; Low; 871 Highway 33, Hamilton, New Jersey
+UNO Pizzeria; 08501; Yes; Low; 225 Sloan Ave, Hamilton, New Jersey
+Arlee’s Raw Blends; 08540; Yes; High; 246 Nassau St, Princeton, New Jersey
+Contemplate Kitchen; 08540; Yes; High; 281 Witherspoon St Ste 210, Princeton, New Jersey
+The Salad and Smoothie Market; 08540; Yes; High; 6 Spring St, Princeton, New Jersey
+Small World Coffee; 08540; Yes; Average; 14 Witherspoon St (at Nassau St), Princeton, New Jersey
+Whole Earth Center; 08540; Yes; High; 360 Nassau, Princeton, New Jersey
+Cafe Vienna; 08540; Yes; Average; 200 Nassau St, Princeton, New Jersey
+Chipotle; 08540; Yes; Low; 3524 US Hwy 1, Princeton, New Jersey
+Chopt; 08540; Yes; Average; 301 N Harrison St, Princeton, New Jersey
+Cross Culture; 08540; Yes; Average; 301 North Harrison St, Princeton, New Jersey
+Elements; 08540; Yes; High; 66 Witherspoon St, Princeton, New Jersey
+Lady and the Shallot; 08601; Yes; Low; 960 Spruce St (at Trenton Farmers Market), Trenton, New Jersey
+Savory Leaf Cafe; 08601; Yes; Average; 960 Spruce Street, Lawrence Township, NJ 08648, USA, Trenton, New Jersey
+Health is Wealth; 08601; Yes; High; 242 E State St, Trenton, New Jersey
+Turning Point; 08601; Yes; Low; 3357 Brunswick Pike, Mercer Mall, Lawrence Township (at US 1 and Quakerbridge Rd), Trenton, New Jersey
+30 Burgers; 08816; Yes; Low; 328 Rte 18, East Brunswick, New Jersey
+Arooga’s; 08816; Yes; Average; 1031 New Jersey 18 Unit 1, East Brunswick, East Brunswick, New Jersey
+Art of Salad; 08816; Yes; High; 300 New Jersey 18, East Brunswick, New Jersey
+Chipotle2; 08816; Yes; Low; 609 New Jersey 18, East Brunswick, New Jersey
+Giddy’s Pizzeria; 08816; Yes; Low; 233 Route 18 S, East Brunswick, New Jersey
+Playa Bowls3; 08816; Yes; Average; South Dr, 587 New Jersey 18, East Brunswick, New Jersey
+Stewart’s Root Beer; 08816; Yes; Low; 647 NJ 18, East Brunswick, New Jersey
+Seed Burger; 08901; Yes; Average; 176 Easton Ave, New Brunswick, New Jersey
+Veganized; 08901; Yes; High; 1 Elm Row, New Brunswick, New Jersey
+College Ave Cafe; 08901; Yes; Low; 70 College Ave (at inside Rutgers Hillel), New Brunswick, New Jersey
+George Street Co-op & Cafe; 08901; Yes; Average; 89 Morris St, New Brunswick, New Jersey
+Bagel Nosh; 08901; Yes; Low; 357 George St, New Brunswick, New Jersey
+Combo Box; 08901; Yes; Low; 342 George St, New Brunswick, New Jersey
+Chipotle3; 08901; Yes; Low; 387 George St, New Brunswick, New Jersey
+Dashen Ethiopian Cuisine; 08901; Yes; Average; 88 Albany St, New Brunswick, New Jersey
+Honest Restaurant; 08817; Yes; Average; 1681 Oak Tree Rd, Edison, New Jersey
+Mithaas; 08817; Yes; Low; 1655-170 Oak Tree Rd, Edison, New Jersey
+Rajdhani; 08817; Yes; Low; 1667 Oaktree Rd, Edison, New Jersey
+Saravana Bhavan; 08817; Yes; Average; 149 Wood Ave (at Oak Wood Plaza), Edison, New Jersey
+Swagath; 08817; Yes; Average; 1700 Oak Tree Rd, Edison, New Jersey
+Chipotle4; 08817; Yes; Low; 55 Parsonage Rd Spc FS16A, Edison, New Jersey
+Frappe Joe; 08817; Yes; Low; 1 State Rt-27, Edison, New Jersey
+Melt Shop; 08817; Yes; Low; 55 Parsonage Rd Ste FS13, Edison, New Jersey
+Chand Palace; 08854; Yes; Average; 1296 Centennial Ave, Piscataway, New Jersey
+Sukh Sagar; 08854; Yes; Low; 1347 Stelton Rd (at /near Edison), Piscataway, New Jersey
+Healthy Garden2; 08854; Yes; High; 1372 Centennial Ave, Piscataway, New Jersey
+Thai Basil; 08854; Yes; Low; 1316 Centennial Ave, Piscataway, New Jersey
+Chipotle5; 08840; Yes; Low; 349 Lake Ave, Metuchen, New Jersey
+Hatch44 Cafe; 08840; Yes; Average; 140 Durham Ave, Metuchen, New Jersey
+Olive Press Eatery; 08840; Yes; Average; 21 Pearl St, Metuchen, New Jersey
+The Orchid; 08840; Yes; Low; 455 Main St (at Highland Ave), Metuchen, New Jersey
+The Moth Coffeehouse; 18001; Yes; Low; 42 S Main St, Allentown, New Jersey
+La Piazza; 18001; Yes; Low; 11 Church St, Allentown, New Jersey
+Cafe La De Da; 10940; Yes; Average; 549 Hwy 35 N, Middletown, New Jersey
+Freshii; 10940; Yes; High; 838 NJ-35, Middletown, New Jersey
+Haldi Chowk; 10940; Yes; Low; 1409 NJ-35 No. 2012, Middletown, New Jersey
+Meemom’s; 10940; Yes; Low; 1383 New Jersey 35, Middletown, New Jersey
+Pasquale’s Pizzeria III; 10940; Yes; Low; 147 Cherry Tree Farm Rd, Middletown, New Jersey
+The Herd Juicery; 07740; Yes; High; 80 Brighton Ave, Long Branch, New Jersey
+The Juice Theory; 07740; Yes; High; 87 Brighton Ave, Long Branch, New Jersey
+Casa Comida Mexican Restaurant; 07740; Yes; Low; 336 Branchport Ave, Long Branch, New Jersey
+FaNagle the Bagel; 07740; Yes; Low; 444 Ocean Blvd, Long Branch, New Jersey
+Ocean Cafe; 07740; Yes; Average; Brighton Ave, Long Branch, New Jersey
+Simply Greek; 07740; Yes; Average; 44 Centennial Dr, Long Branch, New Jersey
+Tony Boloney’s; 07740; Yes; Low; 72 Ocean Ave, Long Branch, New Jersey
+Kaya’s Kitchen; 07715; Yes; Average; 1000 Main St (at 10th), Belmar, New Jersey
+10th Avenue Burrito Company; 07715; Yes; Low; 801 Belmar Plaza, Belmar, New Jersey
+Joe’s Surf Shack; 07715; Yes; Low; 415 18th Ave, Belmar, New Jersey
+Playa Bowls4; 07715; Yes; Average; 803 Ocean Ave, Belmar, New Jersey
+Stay Gold Cafe; 07715; Yes; Low; 800 Main St, Belmar, New Jersey
+Surf Taco; 07715; Yes; Low; 1003 Main St, Belmar, New Jersey
+Papa Ganache; 07747; Yes; Low; 106 Main St, Matawan, New Jersey
+Vegan Tree; 07747; Yes; High; 952 Rte 34 Ste 4 , Matawan, New Jersey
+Angelo’s Pizza and Sub Shop; 07747; Yes; Low; 321 Broad St, Matawan, New Jersey
+Siam Smiles; 07747; Yes; Low; 1016 NJ-34 Ste 4, Matawan, New Jersey
+Sharky’s; 07005; Yes; Low; 108 Boonton Ave, Boonton, New Jersey
+Begum; 53558; Yes; Low; 300 Main St, Madison, New Jersey
+Blue Wazabi; 53558; Yes; Average; 20 Waverly Pl, Madison, New Jersey
+Chipotle6; 53558; Yes; Low; 6 Main St, Madison, New Jersey
+Palm Thai; 53558; Yes; Average; 75 Main St, Madison, New Jersey
+Romanelli’s; 53558; Yes; Low; 42 Lincoln Pl, Madison, New Jersey
+Loving Hut; 07852; Yes; High; 538 Route 10 W, Ledgewood, New Jersey
+The Clay Oven; 07852; Yes; Low; 1140 U.S. 46, Ledgewood, New Jersey
+Green Point Juicery; 07960; Yes; High; 28 Speedwell Ave, Morristown, New Jersey
+Bareburger; 07960; Yes; Low; 11 South St (at S Park St), Morristown, New Jersey
+Lin’s; 07960; Yes; Low; 40 Speedwell Ave, Morristown, New Jersey
+Malay; 07960; Yes; Low; 147 Morris St, Morristown, New Jersey
+Marjan  Persian Grill; 07960; Yes; Low; 84 Speedwell Ave, Morristown, New Jersey
+Masago; 07960; Yes; Average; 39 Washington St (at Cattano ), Morristown, New Jersey
+Morristown Pancake House; 07960; Yes; Low; 20 South St, Morristown, New Jersey
+Veggie Heaven; 07834; Yes; High; 57 Bloomfield Ave, Denville, New Jersey
+Cafe Metro; 07834; Yes; Average; 60 Diamond Spring Rd, Denville, New Jersey
+Playa Bowls5; 07834; Yes; Average; 4 Broadway, Denville, New Jersey
+Buckalew’s Restaurant & Tavern; 08008; Yes; Average; 101 N Bay Ave, Beach Haven, New Jersey
+Spice It Up; 08008; Yes; Low; 830 N Bay Ave, Beach Haven, New Jersey
+Esty’s Besty’s Vegetarian Eatery; 08527; Yes; High; 2080 W County Line Rd Ste 5, Jackson, New Jersey
+Inzillo’s; 08527; Yes; Average; 2103 W County Line Rd, Jackson, New Jersey
+TJ’s; 08527; Yes; Average; 537 Monmouth Rd, Ste 173 Food Ct (at Jackson Premium Outlets), Jackson, New Jersey
+Falafel Brothers; 08723; Yes; Average; 515 Brick Blvd, Brick, New Jersey
+Joey D’s; 08723; Yes; Low; 900 Cedarbridge Ave Ste 5A (at Brick Blvd), Brick, New Jersey
+Cafe Diem; 08753; Yes; High; 1425 Lakewood Rd (at Wallach’s Market), Toms River, New Jersey
+Ocean Organics; 08753; Yes; High;  570 Fischer Blvd, Toms River, New Jersey
+Bubbakoo’s Burritos; 08753; Yes; Average; 1849 Hooper Ave, Toms River, New Jersey
+Kali-O’s Juicebox; 08742; Yes; Average; 627 Arnold Ave, Point Pleasant Beach, New Jersey
+Local Urban Kitchen; 08742; Yes; Average; 1805 Rte 35, Point Pleasant Beach, New Jersey
+Gyro Grill; 07470; Yes; Low; 783 Hamburg Turnpike (at Valley Rd), Wayne, New Jersey
+Planted Eats; 07470; Yes; High; 61 Berdan Ave, Wayne, New Jersey
+La Taquiza Loca; 07055; Yes; Low; 188 Howe Ave (at Paulison Ave), Passaic, New Jersey
+Hill’s Carib Flava; 07501; Yes; Average; 169 Union Ave , Paterson, New Jersey
+Sweetberry Bowls; 07442; Yes; Average; 53 Wanaque Ave, Pompton Lakes, New Jersey
+Blissfully Vegan Cafe; 07456; Yes; High; 6 Greenwood Lake Tpke, Ringwood, New Jersey
+The New Dodge’s Market; 08318; Yes; Average; 55 Chestnut St, Elmer, New Jersey
+Masala Bay; 08873; Yes; Low; 1135 Easton Ave , Somerset, New Jersey
+Fresh Press Juice Co; 07924; Yes; Average; 80 Morristown Rd, Bernardsville, New Jersey
+Gabriel’s Fountain; 08807; Yes; Low; 1948 Washington Valley Rd, Martinsville, Bridgewater, New Jersey
+Turf Surf & Earth; 08876; Yes; Average; 46 East Main St, Somerville, New Jersey
+Nick’s Mini Mart and Subs; 08853; Yes; Low; 1010 Rt 202 S, Branchburg, New Jersey
+Cravin Thai; 07419; Yes; Average; 4 Main St, Hamburg, New Jersey
+Tony’s Pizza & Pasta; 07419; Yes; Low; 3339 State Rte 94, Hamburg, New Jersey
+Get Juiced Farm; 07461; Yes; High; 4 Hamburg Ave (at Loomis), Sussex, New Jersey
+Casa Capri; 07871; Yes; Low; 514 Lafayette Rd Ste F, Sparta, New Jersey
+Cloveberry; 07871; Yes; Average; 21 Main St, Sparta, New Jersey
+Fresh Press Juice Co2; 07016; Yes; Average; 105 S Ave E, Cranford, New Jersey
+Vegans of Seitan; 07016; Yes; High; 669 Raritan Rd (at El Paso Tex Mex), Cranford, New Jersey
+Grill Creations; 07027; Yes; Average; 108 North Ave, Garwood, New Jersey
+Johnny Tequilas; 07203; Yes; Low; 579 Raritan Rd, Roselle, New Jersey
+Roselle Park Deli Grill; 07203; Yes; Average; 314 West Webster Ave, Roselle, New Jersey
+Urban Griddle; 07114; Yes; Low; 460 Maple Ave, Elizabeth, New Jersey
+Killer Vegan; 07033; Yes; High; 996 Stuyvesant Ave, Union, New Jersey
+Two Que’s Cafe; 07033; Yes; Average; 599C Chestnut St, Union, New Jersey
+Aunt Betty’s Kitchen; 08323; No; Low; 1016 Ye Greate St, Greenwich, NJ
+Speranza Wood-Fired Italian Kitchen; 08093; No; Low; 158 Broadway, Westville, NJ
+Sweet Lula’s Restaurant; 08071; No; Low; 28 S Broadway, Pitman, NJ
+Salem Oak Diner; 08079; No; Low; 113 W Broadway, Salem, NJ
+Creekside Inn; 08098; No; Low; 197 East Ave, Woodstown, NJ
+Alloway Village Inn; 08001; No; Low; 433 Telegraph Rd, Alloway, NJ
+J.G. Cooks Riverview Inn; 08070; No; Low;  60 Main St, Pennsville, NJ
+Sal’s Pizzeria; 07874; No; Low; 81 NJ-183, Stanhope, NJ
+Jimmy’s Pizza & Pasta; 07826; No; Low;  394 US-206, Frankford, NJ
+Washington Diner Restaurant; 07882; No; Low; 6 NJ-31, Washington, NJ
+George’s Place; 07823; No; Low; 1 Greenwich St, Belvidere, NJ
