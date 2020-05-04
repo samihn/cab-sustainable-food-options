@@ -17,6 +17,6 @@ The issue we want to address is part of the larger issue of climate change and s
 - queries_demonstrate.sql is a sql script that can be run to test and view results of all queries from queries.txt
 - Stage V-B.pdf has all the past pdfs and current Stage V pdf with some data repeated.
 
-PHP:
+**PHP:**
 - In order to get test.php into your apache web server folder, copy test.php into the directory var/www/html by going into terminal, navigating to location of test.php and running 'sudo cp test.php /var/www/html'
 - Now go to the web browser and navigate to localhost/test.php
